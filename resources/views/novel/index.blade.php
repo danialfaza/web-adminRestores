@@ -9,7 +9,7 @@
 					<div class="col-md-12">
 						<div class="panel">
 				<div class="panel-heading">
-					<h3 class="panel-title">Data Novel</h3>
+					<h3 class="panel-title">Data Restoran</h3>
 					<div class="right">
 						
 					
